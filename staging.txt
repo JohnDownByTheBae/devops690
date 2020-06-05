@@ -1,5 +1,1 @@
-im making merge conflict
-im making merge conflict
-im making merge conflict
-lets test  some merge conflicts
-im making merge conflict
+echo "Hello World"
